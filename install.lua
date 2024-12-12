@@ -7,3 +7,5 @@ local function install()
 
     run("wget","https://raw.githubusercontent.com/kizYTB/Music-program-with-server-for-cc-tweaked/refs/heads/main/music.lua")
 end
+
+install()
